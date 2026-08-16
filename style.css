@@ -26,7 +26,7 @@ body{
     justify-content: center;
     place-items: center;
     border-radius: 10px;
-    allign-items: center;
+    align-items: center;
 }
 .nav_links{
     padding: 5px;
@@ -35,13 +35,22 @@ body{
     text-decoration: none;
 
 }
+.pfp_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    image-rendering: pixelated;
+    text-align: center;
+
+}
 .pfp{
     border-radius: 50%;
     height: 200px;
     width: 200px;
-    margin-left: 42%;
+    
     margin-top:5%;
     margin-bottom: 2%;
+    
 }
 .header{
     margin:20px;
