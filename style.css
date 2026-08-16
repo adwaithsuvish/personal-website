@@ -26,12 +26,22 @@ body{
     justify-content: center;
     place-items: center;
     border-radius: 10px;
+    allign-items: center;
 }
 .nav_links{
     padding: 5px;
     margin: 10px;
     color: #00FF00;
     text-decoration: none;
+
+}
+.pfp{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: 42%;
+    margin-top:5%;
+    margin-bottom: 2%;
 }
 .header{
     margin:20px;
@@ -81,9 +91,33 @@ body{
     text-align: center;
     width: 300px;
     text-wrap: balance;
-    margin: 10px;
+    margin-right:10px;
+    
 }
 .desc{
     
     margin: 15px;
+}
+.profile_tiles{
+    margin-right: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #00FF00;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    text-align: center;
+}
+.profile_logo{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.profile_logo_github{
+    filter: invert(100%);
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 10px;
 }
