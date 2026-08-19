@@ -1,5 +1,5 @@
 # Personal Website 🌐
-**live-site** - https://adwaithsuvish.github.io/personal-website/
+**live-site** - https://adwaithsuvish.com
 ---
 ## About 📖
 This is a personal website made purely on HTML and CSS. Here I showcase my projects and other activities that could help me with my portfolio.
