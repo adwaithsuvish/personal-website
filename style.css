@@ -106,7 +106,8 @@ body{
     border-style: solid;
     border-radius: 10px;
     border-color: #00FF00;
-    height: 150px;
+    height: fit-content;
+    min-height: 150px;
     text-align: center;
     width: 300px;
     text-wrap: balance;
