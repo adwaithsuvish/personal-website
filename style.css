@@ -86,11 +86,9 @@ body{
 }
 #home_subject{
     margin:15px;
-    text-justify: center;
 }
 .projects{
     display: flex;
-    
     margin-left: 100px;
     margin-right: 100px;
 
@@ -100,7 +98,10 @@ body{
     margin: 10px;
     color: #00FF00;
     text-decoration: none;
-    margin-top: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
 }
 .project_1{
     border-style: solid;
@@ -108,11 +109,12 @@ body{
     border-color: #00FF00;
     height: fit-content;
     min-height: 150px;
-    text-align: center;
     width: 300px;
-    text-wrap: balance;
-    margin-right:10px;
-    
+    text-wrap: justify;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
 }
 .desc{
     
