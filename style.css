@@ -29,6 +29,8 @@ body{
     z-index: 1000;
     left: 50%;               
     transform: translateX(-50%);
+    border-color:#00FF00;
+    border-style:solid;
 }
 .nav_links{
     padding: 5px;
