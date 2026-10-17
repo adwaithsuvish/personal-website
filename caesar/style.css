@@ -67,6 +67,7 @@ body{
     font-family: "Audiowide",sans-serif;
     font-style: inherit;
     font-size: medium;
+    margin-left: 10px;
     
 
 }
@@ -96,4 +97,18 @@ body{
     border-style: solid;
     border-color: #00FF00;
     font-size: x-large;
+}
+#shift{
+    height: fit-content;
+    min-height: 40px;
+    min-width: 50px;
+    width: fit-content;
+    background-color: #0d1117;
+    color: #00FF00;
+    border-style: solid;
+    border-radius: 5px;
+    border-color:#00FF00;
+    font-family: "Audiowide",sans-serif;
+    font-size: medium;
+    margin-left: 10px;
 }
