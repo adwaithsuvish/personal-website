@@ -112,3 +112,13 @@ body{
     font-size: medium;
     margin-left: 10px;
 }
+.footer{
+    
+    justify-content: center;
+    align-items: center;
+    background-color: #161b22;
+    height: 50px;
+    margin-top: 100px;
+    border-radius: 10px;
+    display: flex;
+}
