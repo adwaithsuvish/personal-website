@@ -6,7 +6,7 @@ This is a personal website made purely on HTML and CSS. Here I showcase my proje
 ---
 ## Upcoming Improvements 📍
 - [x] Add a profile tabs.
-- [ ] Introduce a Javascript to the site.
+- [x] Introduce a Javascript to the site.
 - [ ] Add a light mode feature to it.
 - [ ] Add some new animaations.
 
